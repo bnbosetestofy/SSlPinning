@@ -1,0 +1,15 @@
+{
+  "name": "sslpinning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Biswanath Bose",
+  "license": "ISC",
+  "dependencies": {
+    "@chilkat/ck-node16-linux64": "^9.50.90",
+    "express": "^4.18.1"
+  }
+}
